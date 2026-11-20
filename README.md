@@ -1,20 +1,98 @@
-<h1 align="center">Hi 👋, I'm Thiyagaraja Devanivethitha</h1>
-<h3 align="center">A passionate Fullstack Developer , QA engineering and Designing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deva-0907&label=Profile%20views&color=0e75b6&style=flat" alt="deva-0907" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deva-0907" alt="deva-0907" /></a> </p>
+<div align="center">
 
-- 🌱 I’m currently learning **Cloud computing**
+# Hi, I'm Devanivethitha 👋
 
-- 📫 How to reach me **thiyagarajanivethitha@gmail.com**
+### BSc (Hons) in Information Technology Student | QA Engineering Enthusiast
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/devanivethitha-thiyagaraja-b8b81534a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/devanivethitha-thiyagaraja-b8b81534a" height="30" width="40" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+QA+Engineer;Exploring+Web+Development;Learning+Selenium+%26+CI%2FCD;Interested+in+Cloud+Technologies" alt="Typing SVG" />
+
+<p>
+  <a href="https://www.linkedin.com/in/devanivethitha-thiyagaraja-b8b81534a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:thiyagarajanivethitha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://facebook.com/Thiyagaraja%20Deva">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deva-0907&show_icons=true&locale=en" alt="deva-0907" /></p>
+---
+
+## 💫 About Me
+
+- 🎓 Currently pursuing a **BSc (Hons) in Information Technology** at **Horizon Campus**.
+- 🧪 Interested in **Quality Assurance (QA) Engineering** and software testing.
+- 🌱 Currently learning **Selenium, CI/CD, and Cloud Technologies**.
+- 💻 Interested in collaborating on **Web Development** and **QA Testing** projects.
+- ☁️ Looking to learn more about **Cloud Computing**.
+- 💬 Feel free to ask me about **Python** and **Manual Software Testing**.
+
+## 🧰 Tech Stack & Tools
+
+*Technologies and tools I work with, have used, or am currently exploring.*
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,kotlin,js,ts,python,r,php,powershell" alt="Programming languages" />
+</p>
+
+### Web & Application Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django,flutter" alt="Web and application development" />
+</p>
+
+### Testing, DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,jenkins,docker,aws,gcp,firebase,git,github" alt="Testing, DevOps and cloud tools" />
+</p>
+
+### Databases & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,anaconda" alt="Databases and data tools" />
+</p>
+
+### Design & Creative Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,blender,sketch,canva" alt="Design tools" />
+</p>
+
+### Other Tools
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
+  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white" alt="Adobe Lightroom" />
+  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white" alt="Adobe InDesign" />
+  <img src="https://img.shields.io/badge/Adobe_Fonts-000B1D?style=flat-square&logo=adobe&logoColor=white" alt="Adobe Fonts" />
+</p>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Deva-0907&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=Deva-0907&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deva-0907&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+
+</div>
+
+---
+
+<div align="center">
+
+<img loading="lazy" decoding="async" alt="deva-0907 contribution activity" class="_readmeDocumentImage_1e818_1639 _readmeDocumentImageLoaded_1e818_1640" src="https://www.gitskins.com/api/section/heatmap?username=deva-0907&amp;theme=neon">
+
+<img src="https://komarev.com/ghpvc/?username=Deva-0907&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+
+### Thanks for visiting my profile! 😊
+
+
