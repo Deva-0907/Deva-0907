@@ -1,21 +1,54 @@
-<h1 align="center">Hi 👋, I'm Thiyagaraja Devanivethitha</h1>
-<h3 align="center">A passionate Fullstack Developer , QA engineering and Designing</h3>
+## Delivery pipeline
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deva-0907&label=Profile%20views&color=0e75b6&style=flat" alt="deva-0907" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deva-0907" alt="deva-0907" /></a> </p>
-
-- 🌱 I’m currently learning **Cloud computing**
-
-- 📫 How to reach me **thiyagarajanivethitha@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/devanivethitha-thiyagaraja-b8b81534a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/devanivethitha-thiyagaraja-b8b81534a" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=deva-0907&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220786821%3Fv%3D4" alt="deva-0907 hero visual" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+**deva-0907** · Backend or systems engineer
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deva-0907&show_icons=true&locale=en" alt="deva-0907" /></p>
+## Operating principles
 
+<pre><code>ROLE        = Backend or systems engineer
+LOCATION    = remote
+PUBLIC_REPOS = 5
+COMMUNITY   = 3 followers</code></pre>
+
+Building useful things and learning in public.
+
+## Uptime in motion
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=deva-0907&theme=github-dark" alt="deva-0907 contribution activity" />
+</p>
+
+## Service signals
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=deva-0907&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220786821%3Fv%3D4" alt="deva-0907 stats visual" />
+</p>
+
+<p><code>138 contributions</code> · <code>1 day streak</code></p>
+
+## Infrastructure shipped
+
+- **[foodorder_Ai](https://github.com/Deva-0907/foodorder_Ai)** — Featured public work · ⭐ 0
+- **[Pulse-HealthTracker](https://github.com/MyHorizonTeam/Pulse-HealthTracker)** — This is our repository for create the pulse Health Tracker application · ⭐ 0
+- **[To-do-Application-devops-Assignment](https://github.com/Niroshini2002/To-do-Application-devops-Assignment)** — Advanced Git &amp; DevOps Assignment - Group number: 46 · ⭐ 0
+
+## Platform toolkit
+
+<p><code>deva-0907@github:~$ toolbox --list</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=deva-0907&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220786821%3Fv%3D4" alt="deva-0907 stack visual" />
+</p>
+
+## Keep it moving
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=deva-0907&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220786821%3Fv%3D4" alt="deva-0907 social visual" />
+</p>
+
+<a href="https://github.com/deva-0907">GitHub</a>
+
+<p align="center"><sub>deva-0907 · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
